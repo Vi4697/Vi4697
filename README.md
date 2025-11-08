@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Viktoriia 👋</h1>
 <p align="center">
-  <em>Software Engineer | Robotics Master's Student | DevOps Enthusiast</em>
+  <em>Software Engineer | Robotics Graduate | DevOps Enthusiast</em>
 </p>
 
 ---
@@ -9,10 +9,10 @@
 
 - 🇵🇱 Based in Poland  
 - 💼 Software Engineer in the pharmaceutical technology sector, working with AI-powered solutions  
-- 🎓 Pursuing a Master’s degree in Robotics with a focus on intelligent systems and energy-aware computing  
-- 🚀 Currently developing my thesis:  
+- 🎓 Completed a Master’s degree in Robotics, specializing in intelligent systems and energy-aware computing  
+- 🚀 Master's thesis:  
   <strong><i>“Task Prioritization and Energy Estimation for Space-Like Rovers”</i></strong>  
-  *(Designing simulation-based algorithms for efficient energy management in autonomous exploration systems)*  
+  *(Designed simulation-based algorithm for efficient energy management in autonomous exploration systems)*  
 - 🔄 Expanding into DevOps with a focus on infrastructure automation and scalable cloud systems  
 
 ---
@@ -36,8 +36,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
   </a>
 </p>
-
-
 
 ---
 
