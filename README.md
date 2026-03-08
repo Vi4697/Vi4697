@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Viktoriia 👋</h1>
 <p align="center">
-  <em>Software Engineer | Robotics Graduate | DevOps Enthusiast</em>
+  <em>DevOps Engineer | Robotics Graduate</em>
 </p>
 
 ---
