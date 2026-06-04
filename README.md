@@ -7,7 +7,7 @@
 
 ### About Me
 
-DevOps Engineer based in Poland, working in the pharmaceutical technology sector on AI-powered solutions. MSc in Robotics — thesis focused on task prioritization and energy estimation for autonomous space rovers. Passionate about infrastructure automation, cloud-native systems, and scalable deployments.
+DevOps Engineer based in Poland, working in the pharmaceutical technology sector on AI-powered solutions. MSc in Robotics, thesis focused on task prioritization and energy estimation for autonomous space rovers. Passionate about infrastructure automation, cloud-native systems and scalable deployments.
 
 ---
 
